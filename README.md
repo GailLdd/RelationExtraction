@@ -1,2 +1,0 @@
-# RelationExtraction
-基于Pytorch和Bert基础模型实现的文本关系抽取
